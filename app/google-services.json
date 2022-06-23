@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301960097986",
+    "project_id": "camsearch-b935a",
+    "storage_bucket": "camsearch-b935a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301960097986:android:b1d50516e8cecbf9f8cb5b",
+        "android_client_info": {
+          "package_name": "com.example.camsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301960097986-g2gq1vjsnrvfo8guikbl7qfeqtdsaua7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQEQMknUrVBbzeYsQTzpOXLvvEOShsGmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301960097986-g2gq1vjsnrvfo8guikbl7qfeqtdsaua7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
